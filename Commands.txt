@@ -1,0 +1,5 @@
+1. uv init (faster then pip)
+2. uv add fastmcp
+3. uv run fastmcp dev inspector main.py (Run inspector)
+4. uv run fastmcp run main.py (Run server) 
+5. uv run fastmcp install claude-desktop main.py
